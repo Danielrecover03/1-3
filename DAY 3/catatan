@@ -1,0 +1,23 @@
+ /*document.write("hallp guys❤️")
+
+ * DOM = Dokumen Object Model digunakan untuk memanipulasi elemet HTML melalui Js
+ * client server = google, freefox dll
+ * CSS = untuk mengatur tampilan pada html.
+ 
+ */
+ /*alert bisa juga untuk ngeprint,
+ ex. if (nilai = 0 ){
+    alert('tidak lulus')
+ }
+ */
+    /*perbedaan :
+    1. VAR : bisa terjadi hal tak terduga (funcional scope)
+    2. LET : versi terbaru (blok scope)
+    3. const : value tak bisa di ubah (block scope)
+    */
+
+    /*tipe data di js :
+    1. integer
+    2. string
+    3. float
+    */
